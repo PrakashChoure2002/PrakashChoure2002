@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Devops**
 
-- 👨‍💻 All of my projects are available at [https://prakashchoure2002.github.io/portfolio/](https://prakashchoure2002.github.io/portfolio/)
 
 - 💬 Ask me about **React,React-Redux,Tailwind Css,HTML5,Javascript**
 
